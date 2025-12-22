@@ -6,16 +6,15 @@
 ---
 
 ## 👨‍💻 About Me:
-- 🔭 I'm currently working on MERN.
-- 🌱 I'm currently learning N
-- 🤝 I'm looking for help with Next.js Development
-- 💬 Ask me about MERN, Java
+- 🔭 I'm currently working on CMS Project With MERN.
+- 🌱 I'm currently learning MERN Stack.
+- 💬 Ask me about MERN, C++, DSA.
 - 📫 How to reach me: ishannojhaa@gmail.com
 - ⚡ Fun fact: I think I am funny 😊
 
 ## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-ojha-702817302/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishannojhaa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishannojhaa@gmail.com)
 
 ## 🛠️ Tech Stack:
 
