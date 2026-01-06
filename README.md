@@ -6,8 +6,8 @@
 ---
 
 ## 👨‍💻 About Me:
-- 🔭 I'm currently working on CMS Project With MERN.
-- 🌱 I'm currently learning MERN Stack.
+- 🔭 I'm currently working on Online Store Project With MERN.
+- 🌱 I'm currently learning MERN Stack While Making Projects.
 - 💬 Ask me about MERN, C++, DSA.
 - 📫 How to reach me: ishannojhaa@gmail.com
 - ⚡ Fun fact: I think I am funny 😊
