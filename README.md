@@ -189,6 +189,10 @@ I want to understand what happens underneath it — databases, queries, APIs, au
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishann77ojhaa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ishann77ojhaa&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🔗 Connect With Me
