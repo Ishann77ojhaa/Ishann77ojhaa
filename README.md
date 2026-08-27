@@ -126,40 +126,7 @@ Currently continuing deeper into **Machine Learning and AI**.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
----
 
-## 🧩 Projects
-
-### 🛒 E-Commerce Platform
-
-A full-stack e-commerce application built while learning the MERN stack.
-
-**Features include:**
-
-* User authentication
-* Product management
-* Search & filtering
-* Shopping cart
-* Checkout
-* Cash on Delivery
-* Khalti payment integration
-* Order management
-* My Orders
-* Reviews
-* Admin dashboard
-* Role-based access control
-
-**Stack:** React • Node.js • Express • MongoDB • Mongoose • Redux
-
----
-
-### 📋 Paste App
-
-A web application for creating, managing and storing text snippets.
-
-**Stack:** React • Redux • JavaScript • Tailwind CSS
-
----
 
 
 I'm particularly interested in understanding **how applications work behind the UI** — databases, APIs, authentication, architecture, scalability and deployment.
